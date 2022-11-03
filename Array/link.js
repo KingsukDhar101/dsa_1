@@ -27,7 +27,11 @@ const link = {
 
   'book_allocation_problem': 'https://www.codingninjas.com/codestudio/problems/allocate-books_1090540',
 
-  '' : '',
+  'painters_parition_problem': "https://www.codingninjas.com/codestudio/problems/painter's-partition-problem_1089557?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTab=0",
+
+  'aggessive_cow_problem': 'https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?leftPanelTab=1',
+
+  '': '',
   
 
 
